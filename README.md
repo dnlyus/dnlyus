@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Привет, я Юсупов Данила
 
-<!--
-**dnlyus/dnlyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Разработчик | Программист | Инженер
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Обо мне
+
+Я студент и разработчик, интересуюсь веб-разработкой, современными технологиями и созданием удобных цифровых сервисов.
+Изучаю новые технологии и развиваюсь в программировании.
+
+---
+
+## 🛠 Технологии и навыки
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Angular
+* Vue.js
+
+**Backend**
+
+* Node.js
+* Express
+* Python
+* Django
+
+**Базы данных**
+
+* SQL
+* MongoDB
+
+---
+
+## 💼 Опыт работы
+
+**Компания A** — Разработчик
+2020 — настоящее время
+
+**Компания B** — Младший разработчик
+2018 — 2020
+
+---
+
+## 🎓 Образование
+
+**УГНТУ** — Бакалавр в области информатики
+2023 — 2027
+
+---
+
+## 📬 Контакты
+
+📧 Email: [danila@example.com](mailto:danila@example.com)
+📱 Телефон: +7 (123) 456-78-90
+💻 GitHub: https://github.com/dnlyus
+🔗 LinkedIn: https://linkedin.com/in/dnlyus
+
+---
+
+⭐ Спасибо, что посетили мой профиль!
