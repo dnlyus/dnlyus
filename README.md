@@ -58,7 +58,7 @@
 📧 Email: [danila@example.com](mailto:danila@example.com)
 📱 Телефон: +7 (123) 456-78-90
 💻 GitHub: https://github.com/dnlyus
-🔗 LinkedIn: https://linkedin.com/in/dnlyus
+🔗 Сайт: https://dnlyus.github.io/danila.github.io/
 
 ---
 
